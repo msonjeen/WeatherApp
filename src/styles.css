@@ -39,12 +39,12 @@ p {
 }
 .card {
   border-radius: 20px;
-  opacity: 92%;
+  opacity: 0.92;
 }
 .card-body {
   background: #c8cfd6;
   border-radius: 20px;
-  opacity: 92%;
+  opacity: 0.92;
 }
 .search {
   margin: 24px 0 30px 0;
